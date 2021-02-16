@@ -1,7 +1,5 @@
 Hi Puimekster 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on HCMUTE
 - 🌱 I’m currently learning NodeJS and Mongoose
 - ⚡ @_Libraa
