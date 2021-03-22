@@ -1,5 +1,8 @@
+```text
 Hi Puimekster 👋
+```
 
+- 😄 Pronouns: He/His
 - 🔭 I’m currently working on HCMUTE
 - 🌱 I’m currently learning NodeJS and MongoDB
 - ⚡ @_Libraa
