@@ -13,5 +13,5 @@ Hello 🌙 🖥️
 
 <img src="https://github-readme-stats.vercel.app/api?username=puimekster&show_icons=true&theme=radical" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puimekster&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puimekster&layout=compact?style=for-the-badge&labelColor=black)
 
