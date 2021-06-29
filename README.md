@@ -6,7 +6,7 @@ Hello 🌙 🖥️
 - 🖥️ I’m currently working from home
 - 🌱 I’m currently learning NodeJS and MongoDB
 
-<img align="center" width="300px" src="https://i.pinimg.com/originals/37/9f/75/379f759c64a7d6523fe6978b83ee5615.gif" />
+<img align="center" width="450px" src="https://i.pinimg.com/originals/7a/68/af/7a68affa5b1996be4467b93109133cbd.gif" />
 
 ### Skills
 
