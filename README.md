@@ -7,7 +7,7 @@ Hello 🌙 🖥️
 - 🌱 I’m currently learning NodeJS and MongoDB
 - ⚡ @_Libraa
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Reactjs badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Reactjs badge](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&labelColor=black&logo=reactjs&logoColor=61DAFB)](#)
 
 ### Github Stats
 
