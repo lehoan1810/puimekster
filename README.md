@@ -4,7 +4,7 @@ Hello 🌙 🖥️
 
 - 😄 Pronouns: He/His
 - 🖥️ I’m currently working from home
-- 🌱 I’m currently learning NodeJS and MongoDB
+- 🌱 I’m currently learning ReactJS
 
 <img align="center" width="450px" src="https://i.pinimg.com/originals/7a/68/af/7a68affa5b1996be4467b93109133cbd.gif" />
 
