@@ -4,15 +4,14 @@
 <p align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi <strong>Everyone</strong> 
 </p>
 
-
- <p align="left" width="10px" alight="center">"Every day offers us many surprises, today I wish you all to have a spectacular day. 
-  "</p>
-  <strong>I wish you all the best.</strong>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align="right" width="300"  src="https://i.pinimg.com/originals/7a/68/af/7a68affa5b1996be4467b93109133cbd.gif" />
-<br></br>
+ <p align="left"  alight="center">"Every day offers us many surprises, today I wish you all to have a spectacular day. 
+  <strong>I wish you all the best.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></strong>"</p>
+  
+  
 
-### Skills
+
+### Skills 🖥️
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Reactjs badge](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 
